@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BioBrickDevs
 - 👀 I’m interested in mainly to Python Coding.
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Python3 projects.
+- 🌱 I'm looking for work as a Python developer.
 - 📫 How to reach me suomela.jari@gmail.com
 
 <!---
